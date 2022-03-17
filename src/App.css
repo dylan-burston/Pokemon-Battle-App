@@ -37,6 +37,8 @@
   }
 } */
 
+/* below is the code given to us in the lab markdown  */
+
 .Pokemon {
   display: flex;
   flex-direction: column;
